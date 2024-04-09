@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+bitsandbytes
+langchain
+sentence-transformers
+faiss-cpu
+openpyxl
+pacmap
+python-decouple
+pandas
+datasets
+matplotlib
+langchain
+ragatouille
